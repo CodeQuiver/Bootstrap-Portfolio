@@ -1,0 +1,17 @@
+/* general styles */
+    insert font here
+/* end general styles */
+
+
+
+/* styles within inner box */
+
+.jumbotron {
+    background-color: aliceblue;
+}
+
+#headshot {
+    float: left;
+}
+
+/* end styles within inner box */
